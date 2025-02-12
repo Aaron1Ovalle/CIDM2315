@@ -3,7 +3,7 @@ namespace Lecture3;
 class Program
 {
     static void Main(string[] args)
-    {  //Q1
+    {            //Q1
     Console.Write("Input an integer: ");
         int N = Convert.ToInt16(Console.ReadLine());
 
@@ -14,7 +14,7 @@ class Program
         else
         {
             Console.WriteLine($"{N} is non-prime");
-        }   //Q2
+        }         //Q2
          for(int i = 0;i<N;i++){
 
             
