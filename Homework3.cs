@@ -1,5 +1,3 @@
-﻿using System.Runtime.CompilerServices;
-
 namespace Lecture3;
 
 class Program
