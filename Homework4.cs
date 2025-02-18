@@ -1,5 +1,3 @@
-﻿using System.Globalization;
-
 namespace Homework4;
 
 class Program
@@ -23,7 +21,6 @@ class Program
 
         Console.Write("Enter the shape (left or right): ");
         string shape = Console.ReadLine() ?? "left";
-
 
         PrintShape(N, shape);
     }
