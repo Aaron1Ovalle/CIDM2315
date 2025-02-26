@@ -104,9 +104,5 @@ class Program
             Console.WriteLine("Could not create an account");
         }
     }
-    }
-
-  
-
-       
+    }       
 }
